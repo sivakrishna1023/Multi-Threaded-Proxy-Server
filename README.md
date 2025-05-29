@@ -56,8 +56,8 @@ This project is implemented in `C` and demonstrates HTTP parsing and proxy serve
 ## How to Run
 
 ```bash
-$ git clone <your-repo-url>
-$ cd MultiThreadinginC
+$ git clone https://github.com/sivakrishna1023/Multi-Threaded-Proxy-Server
+$ cd Multi-Threaded-Proxy-Server
 $ make all
 $ ./proxy <port no.>
 ```
